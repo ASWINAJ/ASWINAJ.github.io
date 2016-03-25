@@ -1,0 +1,60 @@
+[{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "http://athena.nitc.ac.in/aswin_b130736cs/Sunny.jpg"
+    },
+    {
+        "title": "District 9",
+        "image": "http://athena.nitc.ac.in/aswin_b130736cs/Angelina.jpg"
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "image": "http://athena.nitc.ac.in/aswin_b130736cs/Actress.jpg"
+    },
+    {
+        "title": "X-Men: Days of Future Past",
+        "image": "http://athena.nitc.ac.in/aswin_b130736cs/emma.jpg"
+    },
+    {
+        "title": "The Machinist",
+        "image": "http://athena.nitc.ac.in/aswin_b130736cs/Megan.jpg"
+    },
+    {
+        "title": "The Last Samurai",
+        "image": "http://api.androidhive.info/json/movies/6.jpg"
+    },
+    {
+        "title": "The Amazing Spider-Man 2",
+        "image": "http://api.androidhive.info/json/movies/7.jpg"
+    },
+    {
+        "title": "Tangled",
+        "image": "http://api.androidhive.info/json/movies/8.jpg"
+    },
+    {
+        "title": "Rush",
+        "image": "http://api.androidhive.info/json/movies/9.jpg"
+    },
+    {
+        "title": "Drag Me to Hell",
+        "image": "http://api.androidhive.info/json/movies/10.jpg"
+    },
+    {
+        "title": "Despicable Me 2",
+        "image": "http://api.androidhive.info/json/movies/11.jpg"
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "image": "http://api.androidhive.info/json/movies/12.jpg"
+    },
+    {
+        "title": "A Bug's Life",
+        "image": "http://api.androidhive.info/json/movies/13.jpg"
+    },
+    {
+        "title": "Life of Brian",
+        "image": "http://api.androidhive.info/json/movies/14.jpg"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "image": "http://api.androidhive.info/json/movies/15.jpg"
+    }]
